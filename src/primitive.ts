@@ -1,14 +1,16 @@
+// JS - TS
+// string, number, boolean, undefined, null
 
+// TS: never, unknown, void
 
-const user: {
-    name: string;
-    age: number;
-    ismarried: boolean;
-} = {
-    name: "Rashid",
-    age:21,
-    ismarried: false
-}
-console.log(user)
+let userName: string = "mezba123";
 
-//  array er modde loop chalaite  array.map use korte hoy
+let userId = 123;
+
+userName.toFixed();
+userId.toFixed;
+
+let isAdmin: boolean = false;
+isAdmin = true;
+
+let x: undefined = undefined;
