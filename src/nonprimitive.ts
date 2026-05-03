@@ -46,7 +46,7 @@ const user: {
   isMarried: true,
 };
 
-user.organization = "Programming Hero Fire";
+user.organization = "Programming Hero Fire"; // error: Cannot assign to 'organization' because it is a read-only property.
 
 console.log(user);
 

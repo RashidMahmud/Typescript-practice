@@ -7,7 +7,7 @@ let userName: string = "mezba123";
 
 let userId = 123;
 
-userName.toFixed();
+userName.toFixed(); // error: toFixed is not a function on string
 userId.toFixed;
 
 let isAdmin: boolean = false;
