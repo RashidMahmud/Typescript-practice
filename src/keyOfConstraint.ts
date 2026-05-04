@@ -10,7 +10,6 @@ type MyVehicle1 = "bike" | "car" | "cng";
 type Myvehicle2 = keyof RichPeoplesVehicle;
 
 const myVehicle: Myvehicle2 = "ship";
-
 type User = {
   id: number;
   name: string;
