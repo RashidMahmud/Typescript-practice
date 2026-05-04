@@ -34,7 +34,7 @@ const dog = new Animal("dogesh bhai", "dog", "Ghew ghew");
 
 // const cat = new Animal("Cat bhai", "Cat", "mewa meaw");
 
-console.log(dog.sound);
+
 
 // function add (num1: number,num2:number){
 
